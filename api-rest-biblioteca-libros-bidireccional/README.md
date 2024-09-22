@@ -8,7 +8,7 @@ En donde un libro pertenece a una biblioteca y una biblioteca puede tener muchos
 
 ## Inicializar el proyecto
 
-Se utilizó la página <a href="https://start.spring.io">spring-initializr</a>, con la siguiente configuración:
+Se utilizó la página <a href="https://start.spring.io" target="_blank">spring-initializr</a>, con la siguiente configuración:
 
 - Project: Maven
 - Language: Java
